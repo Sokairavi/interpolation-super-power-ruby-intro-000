@@ -1,3 +1,3 @@
-def #display_rainbow(colors)
+def display_rainbow(colors)
   puts "Hello colors"
 end
